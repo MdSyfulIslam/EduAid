@@ -113,7 +113,8 @@ The tool helps educators identify at-risk students early and take preventive mea
 **Al_Motakabbir Mahmud Shihab** – Student ID: 222002061
 
 📚 B.Sc. in CSE (Day), Green University of Bangladesh  
-🧑‍🏫 **Course:** Machine Learning Lab (CSE-412)  
+🧑‍🏫 **Course:** Machine Learning Lab (CSE-412) 
+👨‍🏫 **Instructor:** Md. Sabbir Hosen Mamun
 📚 **Section:** 222-D3  
 📅 **Submitted on:** 17 August 2025  
 
