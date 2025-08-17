@@ -1,7 +1,7 @@
 # 🎓 EduAID – Student Performance Prediction System (Web-Based)
 
 A **Flask-powered machine learning application** that predicts student performance from both **individual inputs** and **bulk CSV uploads**. The system integrates **Regression**, **Naive Bayes**, and **K-Means Clustering** to evaluate grades, classify risk levels, and group students into performance clusters.  
-This project was developed as part of the **Artificial Intelligence (CSE-315)** course at **Green University of Bangladesh**.
+This project was developed as part of the **Machine Learning Lab (CSE-412)** course at **Green University of Bangladesh**.
 
 ---
 
@@ -38,16 +38,14 @@ The tool helps educators identify at-risk students early and take preventive mea
 - 📂 **Bulk Prediction** – Upload CSV dataset for batch predictions  
 - 📊 **Visualization Dashboard** – Displays **histograms, bar charts, and doughnut charts**  
 - ⚡ **Real-time Feedback** – Instantly shows predicted scores, clusters, and categories  
-- 🛡️ **Secure Access** – User authentication with login/signup system  
-- 📑 **Database Integration** – SQLite for storing users  
+- 🛡️ **Secure Access** – User authentication with login/signup system   
 - 📈 **Model Accuracy Display** – Shows accuracy of the trained ML model  
 
 ---
 
 ## ⚙️ Tools & Technologies
 
-- **Flask (Python)** – Backend framework  
-- **SQLite3** – Lightweight database for user management  
+- **Flask (Python)** – Backend framework    
 - **Pandas & NumPy** – Data preprocessing and manipulation  
 - **Scikit-learn** – ML models (Regression, Naive Bayes, KMeans)  
 - **Joblib** – Model persistence (saving/loading)  
